@@ -47,22 +47,6 @@ npm run dev
 npm run build
 ```
 
-The built files will be in the `dist` directory.
-
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── WalletConnect.tsx    # Wallet connection component
-│   ├── Dashboard.tsx        # Main dashboard with balance
-│   └── TransactionHistory.tsx # Transaction history table
-├── utils/
-│   └── solana.ts           # Solana Web3.js utilities
-├── App.tsx                 # Main application component
-└── main.tsx               # Application entry point
-```
-
 ## Features Explained
 
 ### Wallet Connection
